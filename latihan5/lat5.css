@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/472477490/id/vektor/gambar-kartun-teknologi-komputer.jpg?s=1024x1024&w=is&k=20&c=wAlnjXKdOeVE3b-0cw6k8rT1jXOs0vr3lmsCBUXy-go=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: rgb(52, 5, 61);
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 3%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(70, 4, 87);
+    border-style: groove;
+}
+
+.container {
+    width: 900px;
+    margin: 20px auto;
+    background-color: rgb(173, 105, 194);
+    border: 5px dotted rgb(255, 255, 255);
+    text-align: justify;
+    padding: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+}
+
